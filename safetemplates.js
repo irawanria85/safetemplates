@@ -116,4 +116,3 @@ function randomPage() {
 return pages[Math.round(Math.random() * (pages.length - 1))]; 
 } 
 location.href= randomPage(); 
-© 2019 GitHub, Inc.
